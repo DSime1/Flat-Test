@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C4E82ABD-BC7F-3C29-D0F9-FF004100E9D1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PathFinder.cs">
+    <Files>
+      <File FileName="Assets/PathFinder.cs" Line="164" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Breadth-First PreferredExecutionTarget="Unity.Editor" />
+</Properties>

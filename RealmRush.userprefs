@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{4C486CCA-E61F-DBF4-ABFD-724F70133EDE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PathFinder.cs">
+    <Files>
+      <File FileName="Assets/PathFinder.cs" Line="31" Column="10" />
+      <File FileName="Assets/WayPoint.cs" Line="8" Column="34" />
+      <File FileName="Assets/EnemyMovement.cs" Line="24" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RealmRush PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
